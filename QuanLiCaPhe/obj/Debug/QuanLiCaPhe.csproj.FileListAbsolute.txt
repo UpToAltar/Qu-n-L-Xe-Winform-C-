@@ -1,0 +1,13 @@
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\bin\Debug\QuanLiCaPhe.exe.config
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\bin\Debug\QuanLiCaPhe.exe
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\bin\Debug\QuanLiCaPhe.pdb
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.csproj.AssemblyReference.cache
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.Properties.Resources.resources
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.csproj.GenerateResource.cache
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.csproj.CoreCompileInputs.cache
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.exe
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.pdb
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.FLogin.resources
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.FTableManager.resources
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.FUserInfo.resources
+D:\TeamGame\QuanLiCaPhe\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.FAdmin.resources

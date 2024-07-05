@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TeamGame\\QuanLiCaPhe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|d:\\teamgame\\quanlicaphe\\quanlicaphe\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|d:\\teamgame\\quanlicaphe\\quanlicaphe\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|d:\\teamgame\\quanlicaphe\\quanlicaphe\\helper\\validatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\helper\\validatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\service\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\service\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\service\\loadtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\service\\loadtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|d:\\teamgame\\quanlicaphe\\quanlicaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\dto\\tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\dto\\tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|d:\\teamgame\\quanlicaphe\\quanlicaphe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\ftablemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\ftablemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\service\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\service\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\fuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\fuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\fadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\fadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\fuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\fuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|D:\\TeamGame\\QuanLiCaPhe\\quanlicaphe\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D42FC6-64CE-4EBD-854B-1E33D4814024}|QuanLiCaPhe\\QuanLiCaPhe.csproj|solutionrelative:quanlicaphe\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 291,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FLogin.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FLogin.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FLogin.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FLogin.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\FLogin.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:57:34.844Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FAdmin.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FAdmin.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FAdmin.cs*",
+              "RelativeToolTip": "QuanLiCaPhe\\FAdmin.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAjwCcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:13:08.298Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Service\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\Service\\AppDBContext.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Service\\AppDBContext.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\Service\\AppDBContext.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwFIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:27:36.978Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidateHelper.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Helper\\ValidateHelper.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\Helper\\ValidateHelper.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Helper\\ValidateHelper.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\Helper\\ValidateHelper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:05:12.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FAdmin.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FAdmin.cs [Design]*",
+              "RelativeToolTip": "QuanLiCaPhe\\FAdmin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:03:20.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\Service\\UserService.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Service\\UserService.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\Service\\UserService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA8wDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:54:06.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:50:31.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoadTable.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Service\\LoadTable.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\Service\\LoadTable.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Service\\LoadTable.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\Service\\LoadTable.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:36:14.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableDTO.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\DTO\\TableDTO.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\DTO\\TableDTO.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\DTO\\TableDTO.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\DTO\\TableDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:39:11.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FTableManager.cs [Design]",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FTableManager.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FTableManager.cs [Design]",
+              "RelativeToolTip": "QuanLiCaPhe\\FTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:21:14.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FTableManager.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FTableManager.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FTableManager.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\FTableManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwBkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:06:03.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FTableManager.Designer.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FTableManager.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FTableManager.Designer.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FTableManager.Designer.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\FTableManager.Designer.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAnwGkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:50:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckLogin.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Service\\CheckLogin.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\Service\\CheckLogin.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\Service\\CheckLogin.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\Service\\CheckLogin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:09:04.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FUserInfo.cs [Design]",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FUserInfo.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FUserInfo.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FUserInfo.cs [Design]",
+              "RelativeToolTip": "QuanLiCaPhe\\FUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:11:16.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FLogin.cs [Design]",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FLogin.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FLogin.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FLogin.cs [Design]",
+              "RelativeToolTip": "QuanLiCaPhe\\FLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:57:27.756Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FAdmin.Designer.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FAdmin.Designer.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FAdmin.Designer.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\FAdmin.Designer.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAhwNIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:13:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FUserInfo.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FUserInfo.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FUserInfo.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FUserInfo.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\FUserInfo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:12:11.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FLogin.Designer.cs",
+              "DocumentMoniker": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FLogin.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLiCaPhe\\FLogin.Designer.cs",
+              "ToolTip": "D:\\TeamGame\\QuanLiCaPhe\\QuanLiCaPhe\\FLogin.Designer.cs",
+              "RelativeToolTip": "QuanLiCaPhe\\FLogin.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwJIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:59:18.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 109,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
